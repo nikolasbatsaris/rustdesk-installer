@@ -1,5 +1,5 @@
 @echo off
-set "url=https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-windows_x64.zip"
+set "url=https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-windows.zip"
 set "zip=%TEMP%\rustdesk.zip"
 set "dir=%TEMP%\rustdesk"
 
